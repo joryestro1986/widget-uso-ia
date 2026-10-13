@@ -13,7 +13,7 @@ Ventanita flotante para Windows que muestra cuánto te **queda** del límite sem
 Necesitas [Node.js](https://nodejs.org) 20 o más nuevo.
 
 ```bash
-git clone https://github.com/<tu-usuario>/widget-uso-ia.git
+git clone https://github.com/joryestro1986/widget-uso-ia.git
 cd widget-uso-ia
 npm install
 npm start
