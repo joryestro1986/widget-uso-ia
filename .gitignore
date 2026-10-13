@@ -1,0 +1,4 @@
+node_modules/
+# Llave de DeepSeek y estado local: nunca al repositorio
+config.json
+estado-deepseek.json

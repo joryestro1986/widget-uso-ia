@@ -1,0 +1,13 @@
+{
+  "name": "widget-uso-ia",
+  "version": "1.0.0",
+  "description": "Ventanita flotante con el uso semanal que queda en Codex y Claude",
+  "main": "main.js",
+  "private": true,
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "38.2.0"
+  }
+}
